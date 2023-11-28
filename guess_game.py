@@ -11,4 +11,4 @@ while trial < 3:
         print("Wrong number, Try again!!!")
         trial += 1
 
-print("Number is {}".format(number))
+print(f"Number is {number}")
